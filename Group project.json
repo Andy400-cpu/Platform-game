@@ -68,7 +68,7 @@
         "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite.png\"}",
         "name": "NewSprite",
         "smoothed": false,
         "userAdded": true
@@ -190,6 +190,150 @@
         "name": "1",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "IdleStance.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IdleStance.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alive.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alive",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "IdleStance2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"IdleStance2.png\",\"extension\":\".png\"}",
+        "name": "IdleStance2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/stand.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/stand.png\"}",
+        "name": "stand",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Walk1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Walk1.png\",\"extension\":\".png\"}",
+        "name": "Walk1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Walk2&4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Walk2&4.png\",\"extension\":\".png\"}",
+        "name": "Walk2&4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Walk3.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Walk3.png\",\"extension\":\".png\"}",
+        "name": "Walk3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Attack1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Attack1.png\",\"extension\":\".png\"}",
+        "name": "Attack1.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Attack2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Attack2.png\",\"extension\":\".png\"}",
+        "name": "Attack2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Dead.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dead.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Damaged.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Damaged.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -221,7 +365,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.43357743047023745,
+        "zoomFactor": 0.4950840073748889,
         "windowMask": false
       },
       "objectsGroups": [
@@ -311,22 +455,6 @@
           "x": 758,
           "y": 376,
           "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "guy",
-          "persistentUuid": "a3260d93-98e5-4f7d-8c6d-aad80333ddcc",
-          "width": 0,
-          "x": 593,
-          "y": 375,
-          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -453,8 +581,8 @@
           "name": "coin",
           "persistentUuid": "f6929bff-3ed5-49f9-bd96-9ddb0af2ea85",
           "width": 0,
-          "x": 505,
-          "y": 386,
+          "x": 417,
+          "y": 290,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -671,6 +799,23 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 447,
+          "keepRatio": true,
+          "layer": "",
+          "name": "guy",
+          "persistentUuid": "856274f8-ff27-47e1-bbf1-eb92f49277f1",
+          "width": 355,
+          "x": 370,
+          "y": 144,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -788,18 +933,28 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.5,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
+                      "image": "stand",
                       "points": [
                         {
-                          "name": "attack point",
-                          "x": 85.5,
-                          "y": 29.5
+                          "name": "attack 1",
+                          "x": 101.5,
+                          "y": 98
+                        },
+                        {
+                          "name": "attack 2",
+                          "x": 103,
+                          "y": 118.5
+                        },
+                        {
+                          "name": "attack 3 ",
+                          "x": 89.5,
+                          "y": 80.5
                         }
                       ],
                       "originPoint": {
@@ -816,20 +971,72 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 4
+                            "x": 49,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 4
+                            "x": 84,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 51
+                            "x": 84,
+                            "y": 126
                           },
                           {
-                            "x": 10,
-                            "y": 51
+                            "x": 49,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "IdleStance2.png",
+                      "points": [
+                        {
+                          "name": "attack 1",
+                          "x": 101.5,
+                          "y": 98
+                        },
+                        {
+                          "name": "attack 2",
+                          "x": 103,
+                          "y": 118.5
+                        },
+                        {
+                          "name": "attack 3 ",
+                          "x": 89.5,
+                          "y": 80.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 49,
+                            "y": 126
                           }
                         ]
                       ]
@@ -843,9 +1050,155 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 49,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 49,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 49,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk2&4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 49,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    }
+                  ]
                 }
               ]
             },
@@ -856,11 +1209,11 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 2,
+                  "timeBetweenFrames": 0.2,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Attack",
+                      "image": "Attack3",
                       "points": [
                         {
                           "name": "attack point",
@@ -882,20 +1235,62 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 4
+                            "x": 49,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 4
+                            "x": 84,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 51
+                            "x": 84,
+                            "y": 126
                           },
                           {
-                            "x": 10,
-                            "y": 51
+                            "x": 49,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Attack5",
+                      "points": [
+                        {
+                          "name": "attack point",
+                          "x": 85.5,
+                          "y": 29.5
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 49,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 49,
+                            "y": 126
                           }
                         ]
                       ]
@@ -915,7 +1310,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Dead2",
+                      "image": "Dead.png",
                       "points": [
                         {
                           "name": "attack point",
@@ -937,20 +1332,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 4
+                            "x": 49,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 4
+                            "x": 84,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 51
+                            "x": 84,
+                            "y": 126
                           },
                           {
-                            "x": 10,
-                            "y": 51
+                            "x": 49,
+                            "y": 126
                           }
                         ]
                       ]
@@ -970,7 +1365,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "get hitted",
+                      "image": "Damaged.png",
                       "points": [
                         {
                           "name": "attack point",
@@ -992,20 +1387,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 4
+                            "x": 49,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 4
+                            "x": 84,
+                            "y": 95
                           },
                           {
-                            "x": 47,
-                            "y": 51
+                            "x": 84,
+                            "y": 126
                           },
                           {
-                            "x": 10,
-                            "y": 51
+                            "x": 49,
+                            "y": 126
                           }
                         ]
                       ]
@@ -1017,7 +1412,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "enemy",
           "type": "Sprite",
@@ -1080,20 +1475,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 4
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 47,
-                            "y": 4
+                            "x": 64,
+                            "y": 0
                           },
                           {
-                            "x": 47,
-                            "y": 51
+                            "x": 64,
+                            "y": 52
                           },
                           {
-                            "x": 10,
-                            "y": 51
+                            "x": 0,
+                            "y": 52
                           }
                         ]
                       ]
@@ -1135,20 +1530,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 10,
-                            "y": 4
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 47,
-                            "y": 4
+                            "x": 64,
+                            "y": 0
                           },
                           {
-                            "x": 47,
-                            "y": 51
+                            "x": 64,
+                            "y": 52
                           },
                           {
-                            "x": 10,
-                            "y": 51
+                            "x": 0,
+                            "y": 52
                           }
                         ]
                       ]
@@ -1563,7 +1958,7 @@
               },
               "parameters": [
                 "",
-                "4",
+                "2",
                 "",
                 ""
               ]
@@ -1956,12 +2351,40 @@
               "subInstructions": [
                 {
                   "type": {
-                    "value": "CollisionPoint"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "enemy",
-                    "guy.PointX(\"attack point\")",
-                    "guy.PointY(\"attack point\")"
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "enemy",
+                        "guy.PointX(\"attack 1\")",
+                        "guy.PointY(\"attack 1\")"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "enemy",
+                        "guy.PointX(\"attack 2\")",
+                        "guy.PointY(\"attack 2\")"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionPoint"
+                      },
+                      "parameters": [
+                        "enemy",
+                        "guy.PointX(\"attack 3\")",
+                        "guy.PointY(\"attack 3\")"
+                      ]
+                    }
                   ]
                 },
                 {
