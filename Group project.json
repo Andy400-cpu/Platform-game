@@ -285,7 +285,7 @@
         "alwaysLoaded": false,
         "file": "assets/Attack3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Attack3.png\"}",
         "name": "Attack3",
         "smoothed": false,
         "userAdded": true
@@ -303,7 +303,7 @@
         "alwaysLoaded": false,
         "file": "assets/Attack5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Attack5.png\"}",
         "name": "Attack5",
         "smoothed": false,
         "userAdded": true
@@ -334,6 +334,600 @@
         "name": "Walk",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAlive.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"EnemyAlive.png\",\"extension\":\".png\"}",
+        "name": "EnemyAlive.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alive2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alive2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyDead.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"EnemyDead.png\",\"extension\":\".png\"}",
+        "name": "EnemyDead.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bridge,Block,Ladder.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bridge,Block,Ladder.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bridge,Block,Ladder2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bridge,Block,Ladder2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bridge,Block,Ladder3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bridge,Block,Ladder3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Coin.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Coin.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/stand2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stand2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/stand3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stand3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack10",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack11",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack12",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack13",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack14.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack14",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack15.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack15",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dead3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Dead3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/get hitted2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "get hitted2",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/stand4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stand4",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/stand5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "stand5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack16.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack16",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack17.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack17",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack18.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack18",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack19",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack20",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Attack21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Attack21",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dead4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Dead4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/get hitted3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "get hitted3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alive3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alive3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alive4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alive4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dead5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Dead5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bridge,Block,Ladder.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Bridge,Block,Ladder.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bridge,Block,Ladder2.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Bridge,Block,Ladder2.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bridge,Block,Ladder3.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Bridge,Block,Ladder3.png2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "1hp.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "1hp.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "3",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "2hp.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "2hp.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "3hp.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "3hp.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "4",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "5",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "IdleStance3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "IdleStance3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Walk2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Walk2.png\",\"extension\":\".png\"}",
+        "name": "Walk2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Walk2&5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Walk2&5.png\",\"extension\":\".png\"}",
+        "name": "Walk2&5.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Walk4.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Walk4.png\",\"extension\":\".png\"}",
+        "name": "Walk4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Attack3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Attack3.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Attack4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Attack4.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Dead2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dead2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Damaged2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Damaged2.png",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyAlive2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"EnemyAlive2.png\",\"extension\":\".png\"}",
+        "name": "EnemyAlive2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/alive5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "alive5",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "EnemyDead2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "EnemyDead2.png",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -365,7 +959,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4950840073748889,
+        "zoomFactor": 0.68977821401045,
         "windowMask": false
       },
       "objectsGroups": [
@@ -386,8 +980,8 @@
           "name": "boundary",
           "persistentUuid": "394441a1-7c58-4b92-b7ee-d03dea0bf94d",
           "width": 1278,
-          "x": 5,
-          "y": 686,
+          "x": -1,
+          "y": 685,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -414,7 +1008,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 35,
+          "height": 53,
           "keepRatio": true,
           "layer": "",
           "name": "block",
@@ -445,54 +1039,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "1641dd1a-5490-4793-8b5d-a8d22dc6f3ad",
-          "width": 0,
-          "x": 758,
-          "y": 376,
-          "zOrder": 8,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "boundry_for_monster",
-          "persistentUuid": "c5a6f7ad-b3ed-4697-9774-bf0d3eb96cde",
-          "width": 0,
-          "x": 970,
-          "y": 441,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "boundry_for_monster",
-          "persistentUuid": "e8240d6c-2edc-4be4-a261-9c6dc095aded",
-          "width": 0,
-          "x": 414,
-          "y": 443,
-          "zOrder": 11,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 70,
@@ -500,26 +1046,10 @@
           "layer": "",
           "name": "Health_bar",
           "persistentUuid": "18d5c343-8182-41f0-9c81-c36f6c2cb232",
-          "width": 106,
-          "x": 487,
-          "y": 322,
+          "width": 301,
+          "x": 346,
+          "y": 250,
           "zOrder": 12,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "74d845e1-4f93-4f72-b7fa-d4f64e711163",
-          "width": 0,
-          "x": 89,
-          "y": 464,
-          "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -533,8 +1063,8 @@
           "name": "coin",
           "persistentUuid": "1c3a3b92-dceb-4cd2-a123-6265e56e78f3",
           "width": 0,
-          "x": 78,
-          "y": 366,
+          "x": 107,
+          "y": 484,
           "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
@@ -558,48 +1088,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "coin",
-          "persistentUuid": "e6c9a23a-00aa-4f7a-8aef-f4cf05125aa9",
-          "width": 0,
-          "x": 393,
-          "y": 379,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "coin",
-          "persistentUuid": "f6929bff-3ed5-49f9-bd96-9ddb0af2ea85",
-          "width": 0,
-          "x": 417,
-          "y": 290,
-          "zOrder": 17,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 109,
+          "height": 171,
           "keepRatio": true,
           "layer": "",
           "name": "ladder",
           "persistentUuid": "d067eadc-6130-4645-b74e-a3f17f2dd7cd",
-          "width": 32,
-          "x": 958,
-          "y": 324,
+          "width": 16,
+          "x": 973,
+          "y": 273,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -656,38 +1154,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "7f51f52f-8471-43f6-adae-3e102c840ba5",
-          "width": 0,
-          "x": 1010,
-          "y": 193,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "39e65a7e-0fbe-46ce-bc31-94a5e3f8f7b3",
-          "width": 0,
-          "x": 1192,
-          "y": 187,
-          "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 32,
@@ -699,54 +1165,6 @@
           "x": 704,
           "y": 584,
           "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "ba84c5a8-7e24-4214-a8d7-9fcacfc34438",
-          "width": 0,
-          "x": 830,
-          "y": 524,
-          "zOrder": 25,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "f5bc73a4-8134-4858-94fc-d5a719c47627",
-          "width": 0,
-          "x": 997,
-          "y": 524,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "enemy",
-          "persistentUuid": "5c5b4ada-8a55-4fa6-905e-fe4af9247e9f",
-          "width": 0,
-          "x": 1150,
-          "y": 524,
-          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -804,15 +1222,83 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 447,
+          "height": 195,
+          "keepRatio": true,
+          "layer": "",
+          "name": "boundry_for_monster",
+          "persistentUuid": "e00d8d8c-0a90-42f7-b79e-3b282eac35f6",
+          "width": 32,
+          "x": 968,
+          "y": 373,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 30,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bridge",
+          "persistentUuid": "9c4d0007-0887-4dd0-b647-bda356ed9c29",
+          "width": 180,
+          "x": 705,
+          "y": 375,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 300,
           "keepRatio": true,
           "layer": "",
           "name": "guy",
-          "persistentUuid": "856274f8-ff27-47e1-bbf1-eb92f49277f1",
-          "width": 355,
-          "x": 370,
-          "y": 144,
-          "zOrder": 31,
+          "persistentUuid": "fac764aa-e1ee-42cf-8022-31bdf2ddc755",
+          "width": 228,
+          "x": 449,
+          "y": 178,
+          "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 302,
+          "keepRatio": true,
+          "layer": "",
+          "name": "enemy",
+          "persistentUuid": "c28ce186-c3fd-41f1-9d2b-e54051b28e8f",
+          "width": 237,
+          "x": 639,
+          "y": 231,
+          "zOrder": 38,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 167,
+          "keepRatio": true,
+          "layer": "",
+          "name": "boundry_for_monster",
+          "persistentUuid": "ef8f347e-9032-42b6-86bd-a0302956abd2",
+          "width": 32,
+          "x": 409,
+          "y": 391,
+          "zOrder": 39,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -820,7 +1306,7 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "guy",
           "type": "Sprite",
@@ -939,22 +1425,22 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "stand",
+                      "image": "IdleStance3.png",
                       "points": [
                         {
-                          "name": "attack 1",
-                          "x": 101.5,
-                          "y": 98
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
                         },
                         {
-                          "name": "attack 2",
-                          "x": 103,
-                          "y": 118.5
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
                         },
                         {
-                          "name": "attack 3 ",
-                          "x": 89.5,
-                          "y": 80.5
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
                         }
                       ],
                       "originPoint": {
@@ -971,72 +1457,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "IdleStance2.png",
-                      "points": [
-                        {
-                          "name": "attack 1",
-                          "x": 101.5,
-                          "y": 98
-                        },
-                        {
-                          "name": "attack 2",
-                          "x": 103,
-                          "y": 118.5
-                        },
-                        {
-                          "name": "attack 3 ",
-                          "x": 89.5,
-                          "y": 80.5
-                        }
-                      ],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 49,
-                            "y": 95
-                          },
-                          {
-                            "x": 84,
-                            "y": 95
-                          },
-                          {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
@@ -1050,14 +1484,30 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.5,
+                  "timeBetweenFrames": 0.4,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk1.png",
-                      "points": [],
+                      "image": "Walk2.png",
+                      "points": [
+                        {
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1072,28 +1522,44 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk",
-                      "points": [],
+                      "image": "Walk10",
+                      "points": [
+                        {
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1108,28 +1574,44 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk3.png",
-                      "points": [],
+                      "image": "Walk4.png",
+                      "points": [
+                        {
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1144,28 +1626,44 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk2&4.png",
-                      "points": [],
+                      "image": "Walk2&5.png",
+                      "points": [
+                        {
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
+                        }
+                      ],
                       "originPoint": {
                         "name": "origine",
                         "x": 0,
@@ -1180,20 +1678,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
@@ -1209,16 +1707,26 @@
                 {
                   "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.2,
+                  "timeBetweenFrames": 0.5,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Attack3",
+                      "image": "Attack3.png",
                       "points": [
                         {
-                          "name": "attack point",
-                          "x": 85.5,
-                          "y": 29.5
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
                         }
                       ],
                       "originPoint": {
@@ -1235,32 +1743,42 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Attack5",
+                      "image": "Attack4.png",
                       "points": [
                         {
-                          "name": "attack point",
-                          "x": 85.5,
-                          "y": 29.5
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
                         }
                       ],
                       "originPoint": {
@@ -1277,20 +1795,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
@@ -1310,12 +1828,22 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Dead.png",
+                      "image": "Dead2.png",
                       "points": [
                         {
-                          "name": "attack point",
-                          "x": 85.5,
-                          "y": 29.5
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
                         }
                       ],
                       "originPoint": {
@@ -1332,20 +1860,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
@@ -1365,12 +1893,22 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Damaged.png",
+                      "image": "Damaged2.png",
                       "points": [
                         {
-                          "name": "attack point",
-                          "x": 85.5,
-                          "y": 29.5
+                          "name": "attack1",
+                          "x": 82,
+                          "y": 121.5
+                        },
+                        {
+                          "name": "attack2",
+                          "x": 86,
+                          "y": 107.5
+                        },
+                        {
+                          "name": "attack3",
+                          "x": 85,
+                          "y": 95
                         }
                       ],
                       "originPoint": {
@@ -1387,20 +1925,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 49,
+                            "x": 50.5,
+                            "y": 94
+                          },
+                          {
+                            "x": 70.5,
                             "y": 95
                           },
                           {
-                            "x": 84,
-                            "y": 95
+                            "x": 71.5,
+                            "y": 128.5
                           },
                           {
-                            "x": 84,
-                            "y": 126
-                          },
-                          {
-                            "x": 49,
-                            "y": 126
+                            "x": 47.5,
+                            "y": 127.5
                           }
                         ]
                       ]
@@ -1412,7 +1950,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": false,
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "enemy",
           "type": "Sprite",
@@ -1453,12 +1991,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite",
+                      "image": "alive5",
                       "points": [
                         {
                           "name": "checker1",
-                          "x": 76,
-                          "y": 72.5
+                          "x": 120.5,
+                          "y": 137
                         }
                       ],
                       "originPoint": {
@@ -1475,20 +2013,62 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 48,
+                            "y": 95
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 84,
+                            "y": 95
                           },
                           {
-                            "x": 64,
-                            "y": 52
+                            "x": 84,
+                            "y": 126
                           },
                           {
-                            "x": 0,
-                            "y": 52
+                            "x": 48,
+                            "y": 126
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "EnemyAlive2.png",
+                      "points": [
+                        {
+                          "name": "checker1",
+                          "x": 120.5,
+                          "y": 137
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 48,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 95
+                          },
+                          {
+                            "x": 84,
+                            "y": 126
+                          },
+                          {
+                            "x": 48,
+                            "y": 126
                           }
                         ]
                       ]
@@ -1508,12 +2088,12 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Dead",
+                      "image": "EnemyDead2.png",
                       "points": [
                         {
                           "name": "checker1",
-                          "x": 76,
-                          "y": 72.5
+                          "x": 120.5,
+                          "y": 137
                         }
                       ],
                       "originPoint": {
@@ -1530,20 +2110,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 48,
+                            "y": 95
                           },
                           {
-                            "x": 64,
-                            "y": 0
+                            "x": 84,
+                            "y": 95
                           },
                           {
-                            "x": 64,
-                            "y": 52
+                            "x": 84,
+                            "y": 126
                           },
                           {
-                            "x": 0,
-                            "y": 52
+                            "x": 48,
+                            "y": 126
                           }
                         ]
                       ]
@@ -1558,7 +2138,7 @@
           "assetStoreId": "",
           "height": 32,
           "name": "block",
-          "texture": "block",
+          "texture": "Bridge,Block,Ladder.png2",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -1577,7 +2157,7 @@
           "assetStoreId": "",
           "height": 32,
           "name": "bridge",
-          "texture": "block",
+          "texture": "Bridge,Block,Ladder2.png2",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -1596,7 +2176,7 @@
           "assetStoreId": "",
           "height": 32,
           "name": "ladder",
-          "texture": "NewTiledSprite2",
+          "texture": "Bridge,Block,Ladder3.png2",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -1632,7 +2212,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite2",
+                      "image": "NewSprite4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1648,20 +2228,56 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 17,
-                            "y": 10
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 48,
-                            "y": 10
+                            "x": 12,
+                            "y": 0
                           },
                           {
-                            "x": 48,
-                            "y": 46
+                            "x": 12,
+                            "y": 17
                           },
                           {
-                            "x": 17,
-                            "y": 46
+                            "x": 0,
+                            "y": 17
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 0
+                          },
+                          {
+                            "x": 12,
+                            "y": 17
+                          },
+                          {
+                            "x": 0,
+                            "y": 17
                           }
                         ]
                       ]
@@ -1756,7 +2372,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite3",
+                      "image": "4",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1772,20 +2388,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 13
+                            "x": 37,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 38
+                            "x": 37,
+                            "y": 9
                           },
                           {
-                            "x": 2,
-                            "y": 38
+                            "x": 0,
+                            "y": 9
                           }
                         ]
                       ]
@@ -1805,7 +2421,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "2",
+                      "image": "5",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1821,20 +2437,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 13
+                            "x": 37,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 38
+                            "x": 37,
+                            "y": 9
                           },
                           {
-                            "x": 2,
-                            "y": 38
+                            "x": 0,
+                            "y": 9
                           }
                         ]
                       ]
@@ -1854,7 +2470,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "1",
+                      "image": "3",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1870,20 +2486,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 13
+                            "x": 37,
+                            "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 38
+                            "x": 37,
+                            "y": 9
                           },
                           {
-                            "x": 2,
-                            "y": 38
+                            "x": 0,
+                            "y": 9
                           }
                         ]
                       ]
@@ -1989,21 +2605,19 @@
                 ""
               ]
             }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Comment",
-              "color": {
-                "b": 109,
-                "g": 230,
-                "r": 255,
-                "textB": 0,
-                "textG": 0,
-                "textR": 0
-              },
-              "comment": "collide with coin"
-            }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "collide with coin"
         },
         {
           "type": "BuiltinCommonInstructions::Standard",
@@ -2351,6 +2965,17 @@
               "subInstructions": [
                 {
                   "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "guy",
+                    "Animation",
+                    "=",
+                    "\"Attack\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "BuiltinCommonInstructions::Or"
                   },
                   "parameters": [],
@@ -2386,17 +3011,6 @@
                       ]
                     }
                   ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "guy",
-                    "Animation",
-                    "=",
-                    "\"Attack\""
-                  ]
                 }
               ]
             }
@@ -2418,7 +3032,7 @@
                 "value": "Wait"
               },
               "parameters": [
-                "3"
+                "1"
               ]
             },
             {
@@ -2582,7 +3196,7 @@
                   "parameters": [
                     "guy",
                     ">",
-                    "600"
+                    "675"
                   ]
                 },
                 {
@@ -2752,42 +3366,6 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": ""
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": ""
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": ""
-        },
-        {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -2811,33 +3389,31 @@
                 "\"Left\""
               ]
             }
-          ],
-          "events": [
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionPoint"
-                  },
-                  "parameters": [
-                    "boundry_for_monster",
-                    "enemy.X(\"checker1\")",
-                    "enemy.Y(\"checker1\")"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
-                  },
-                  "parameters": [
-                    "enemy",
-                    "Flippable",
-                    "no"
-                  ]
-                }
+              "type": {
+                "value": "CollisionPoint"
+              },
+              "parameters": [
+                "boundry_for_monster",
+                "enemy.X(\"checker1\")",
+                "enemy.Y(\"checker1\")"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "enemy",
+                "Flippable",
+                "no"
               ]
             }
           ]
